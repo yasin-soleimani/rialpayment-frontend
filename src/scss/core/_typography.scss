@@ -1,0 +1,23 @@
+body,
+html {
+  * {
+    font-family: $app-font-family;
+  }
+
+  p {
+    // color: blue !important;
+    font-weight: 500;
+  }
+
+  a {
+    font-weight: 300 !important;
+  }
+
+  span {
+    font-weight: 500 !important;
+  }
+
+  input {
+    font-weight: 500 !important;
+  }
+}
